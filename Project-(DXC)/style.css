@@ -1,0 +1,266 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.top-worldwide , .top_investor{
+  text-decoration: none;
+}
+.topbar{
+    background-color: #eceef1;
+}
+.navbar-expand-lg{
+    padding: 0px !important;
+}
+.top-worldwide{
+    color: black;
+  }
+  
+.nav-drop>li>a{
+    font-size: 20px;
+}
+.nav-drop>li{
+    padding-right: 30px;
+}
+.search{
+    margin: 0;
+    background-color: rgb(118, 118, 247);
+    height: 100% !important;
+}
+.CU{
+ height: 100%;
+ width: 200px;
+}  
+.CU>span{
+    font-size: 20px;
+    font-weight:200;
+}
+.search{
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+.slide-text {
+    top: 20%;
+}
+.banner{
+    background-color: #5f249f;
+}
+.carousel-indicators>button{
+  border-radius: 50%; 
+}
+
+.carousel-control-prev,.carousel-control-next{
+     border-radius: 50%;
+     background-color: white;
+}
+
+.content{
+   padding-top: 5%;
+
+}
+.img-fluid{
+    width:"415px"; 
+    height:"416px";
+}
+.content>a{
+    border-radius: 0%;
+    width: 28%;
+    height: auto;
+    padding: 12px;
+}
+.info1,.info2,.info3>h2{
+    color: #5f249f;
+}
+.info1,.info2{
+    border-right: 1px solid;
+    border-color: #5f249f;
+}
+.img3{
+    margin-left: 100px;
+}
+.content>.btn{
+    width: auto;
+    padding: 18px;
+
+}
+.img3,.img2,.img1{
+    width: 100%;
+    height: auto;
+}
+.top-nav {
+    position: sticky;
+    top: 0;
+    background-color: #ffffff; 
+    z-index: 100;
+  }
+.carousel .carousel-indicators > button {
+    width: 25px;
+   height: 25px;
+   border-radius: 100%;
+ }
+ .form-1{
+    background-color:#ebedf0;
+    padding-bottom: 80px;
+ }
+ #b-nxt{
+    background-color: #0088c9;
+    color:white;
+    border-radius: 0%;
+    height: 50px !important;
+
+ }
+ .f_nme , .l_nme{
+    width:100%;
+    height:90%;
+    padding: 20px;
+    margin-right:20px;
+    border: none;
+    border-bottom: 1px solid;
+    background-color:#ebedf0;
+ }
+.btn-fm1,.btn-fm2{
+    border-radius: 100%;
+    width: 12px;
+    height: 12px;
+    border: lighter;
+}
+.btn-fm1{
+    background-color: black;
+}
+
+.btn-fm{
+    padding-top: 20px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+#btn_1{
+    border-radius: 0px;
+    padding: 15px;
+}
+
+.img5{
+    padding-right: 30px;
+    width: 100%;
+    height: 75%;
+}
+.img6{
+    width: 100%;
+    height: 75%;
+}
+
+.read2,.read1{
+    text-decoration: none;
+    font-size: medium;
+    
+}
+.card{
+    border: none !important;
+    border-radius: 0% !important;
+    margin: 0 18px;
+}
+.card-body{
+    padding:0px !important;
+    margin: 15px 0px;
+}
+ 
+.btn{
+    border-radius: 0px !important;
+}
+.cu-btn{
+    margin-top: 50px;
+    width: 230px;
+    padding: 15px 0px !important; 
+}
+.txt-p{
+    margin: 80px 0;
+}
+img{
+   border-radius: 0px !important;
+}
+.card-body h4{
+    font-size: 1.4rem;
+}
+.partners h2{
+    margin: 80px 0px;
+}
+
+.logo-gallery {
+    display: flex;
+    gap: 2px; 
+    padding: 10px; 
+ }       
+               
+.logo-gallery img {
+    max-width: 100%;
+    height: auto;
+}
+
+.contact{
+    background-color: #5f249f;
+    padding: 10px 0px;
+}
+
+.btn-contact{
+    width: 150px;
+    height: 50px;
+    margin-left: 40%;
+}
+footer{
+    background-color: #eceef1;
+}
+.body-content_1{
+    padding-top:100px;
+}
+.nav .nav-item a{
+    font-size: 1.5rem;
+    color: black;   
+}
+.contact-info2{
+    padding-left: 150px !important;
+    
+}
+.sc-media i{
+    color: #5f249f;
+    padding-right: 15px;
+    font-size: 25px;
+}
+.footer_end > .fw-normal ,a{
+    font-size: 1.125rem;
+    padding: 0 10px;
+}
+
+a{
+    text-decoration: none !important;
+    border-radius: 0px !important;
+}
+.cookies ,.privacy ,.legal{
+    border-right: 2px solid;
+}
+.sec-nav{
+    padding-left: 20% !important;
+}
+.form-li{
+    padding-right: 0px !important;
+}
+.contact-li {
+   padding-left: 0px !important;
+}
+.search-box{
+    padding:28px 16px !important;
+    border: none !important;
+    border-radius: 0px !important;
+    font-size:25px !important;
+    
+}
+.scroll{
+    overflow-y: scroll;
+    height: 200px;
+}
+.input-group-text{
+    background-color: white !important;
+    border: none !important;
+}
+#basic-addon1{
+    padding: 8px 0px;
+}
